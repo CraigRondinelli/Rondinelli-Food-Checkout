@@ -1,0 +1,9 @@
+C:\Users\Craig\Desktop\CIS 202 Programs\Rondinelli Food\Rondinelli Food\bin\Debug\Rondinelli Food.exe.config
+C:\Users\Craig\Desktop\CIS 202 Programs\Rondinelli Food\Rondinelli Food\bin\Debug\Rondinelli Food.exe
+C:\Users\Craig\Desktop\CIS 202 Programs\Rondinelli Food\Rondinelli Food\bin\Debug\Rondinelli Food.pdb
+C:\Users\Craig\Desktop\CIS 202 Programs\Rondinelli Food\Rondinelli Food\obj\Debug\Rondinelli Food.csprojResolveAssemblyReference.cache
+C:\Users\Craig\Desktop\CIS 202 Programs\Rondinelli Food\Rondinelli Food\obj\Debug\Rondinelli_Food.frmMain.resources
+C:\Users\Craig\Desktop\CIS 202 Programs\Rondinelli Food\Rondinelli Food\obj\Debug\Rondinelli_Food.Properties.Resources.resources
+C:\Users\Craig\Desktop\CIS 202 Programs\Rondinelli Food\Rondinelli Food\obj\Debug\Rondinelli Food.csproj.GenerateResource.Cache
+C:\Users\Craig\Desktop\CIS 202 Programs\Rondinelli Food\Rondinelli Food\obj\Debug\Rondinelli Food.exe
+C:\Users\Craig\Desktop\CIS 202 Programs\Rondinelli Food\Rondinelli Food\obj\Debug\Rondinelli Food.pdb
